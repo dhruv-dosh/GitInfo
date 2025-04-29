@@ -62,7 +62,6 @@ pip install flask requests
 ## Images
 
 ![Main](ss/Main.png)
-![List](ss/List.png)
 
 ## Usage
 
@@ -75,6 +74,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Author
 
-**Abhishek Rajput**
+**Dhruv Doshi**
 
 Contributions, feedback, and issue reports are welcome.
