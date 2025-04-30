@@ -70,7 +70,7 @@ jobs:
             -----END OPENSSH PRIVATE KEY-----
           port: 22
           script: |
-            cd "/home/ubuntu/.ssh/github-deploy"
+            cd "/home/ubuntu/.ssh/github-deploy.pub"
             echo "Stopping existing container if running..."
             docker stop gitinfo-app || true
             docker rm gitinfo-app || true
